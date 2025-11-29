@@ -13,7 +13,7 @@ body{
     border-radius: 20px;
     width: 100%;
     height: 30%;
-    margin-top: 6%;
+    margin-top: 10%;
 }
 
 #laptop_screen{
@@ -249,8 +249,8 @@ body{
 }
 #close-redeem{
     background-color: #04356A;
-    width: 10vw;
-    margin-left: 46vw;
+    width: 15%;
+    margin-left: 42vw;
 }
 #footer{
     margin-top: 2vw;
